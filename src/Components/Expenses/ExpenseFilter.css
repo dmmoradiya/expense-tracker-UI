@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .expenses-filter {
     color: white;
     padding: 0 1rem;
@@ -22,29 +22,4 @@
     padding: 0.5rem 3rem;
     font-weight: bold;
     border-radius: 6px;
-=======
-.expenses-filter {
-    color: white;
-    padding: 0 1rem;
-  }
-  
-  .expenses-filter__control {
-    display: flex;
-    width: 100%;
-    align-items: center;
-    justify-content: space-between;
-    margin: 1rem 0;
-  }
-  
-  .expenses-filter label {
-    font-weight: bold;
-    margin-bottom: 0.5rem;
-  }
-  
-  .expenses-filter select {
-    font: inherit;
-    padding: 0.5rem 3rem;
-    font-weight: bold;
-    border-radius: 6px;
->>>>>>> 9fef467e57b2d528b8eeb638c8178e9d91283920
   }

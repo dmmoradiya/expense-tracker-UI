@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .expenses-list {
     list-style: none;
     padding: 0;
@@ -7,14 +7,4 @@
   .expenses-list__fallback {
     color: white;
     text-align: center;
-=======
-.expenses-list {
-    list-style: none;
-    padding: 0;
-  }
-  
-  .expenses-list__fallback {
-    color: white;
-    text-align: center;
->>>>>>> 9fef467e57b2d528b8eeb638c8178e9d91283920
   }

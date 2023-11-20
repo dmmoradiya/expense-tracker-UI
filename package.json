@@ -1,6 +1,6 @@
 {
   "name": "react-complete-guide",
-  "homepage":"https://dmmoradiya.github.io/expense-tracker-UI",
+  "homepage":"./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
